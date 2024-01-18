@@ -95,7 +95,7 @@
 
 ## 🖥 화면 구성
 ### 메인화면
-![메인페이지][image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151816/b8fda48f-8318-4495-a02e-3a460e56d0b8)
+![메인페이지]![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151816/b8fda48f-8318-4495-a02e-3a460e56d0b8)
 
 <br>
 
