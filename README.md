@@ -94,8 +94,9 @@
 <br>
 
 ## 🖥 화면 구성
-### 메인페이지(지도/지도연동차트/검색)
-![메인페이지](https://github.com/2023-SMHRD-KDT-AI-3/ChickenGGRepo/assets/140151776/8b38c9b0-a8fa-4f6b-ba6b-5e76bbc38879)
+### 메인화면
+![메인페이지][image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151816/b8fda48f-8318-4495-a02e-3a460e56d0b8)
+
 <br>
 
 ### 로그인/회원가입/마이페이지
