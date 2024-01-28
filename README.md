@@ -103,8 +103,8 @@
 ![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/e7285764-df31-4e4a-88eb-859ed83844f9)
 <br>
 
-### 브랜드페이지
-![브랜드 페이지](https://github.com/2023-SMHRD-KDT-AI-3/ChickenGGRepo/assets/140151776/3ef98214-afb6-475f-9f6b-01c81bfc9055)
+### 검색페이지
+![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/dcaaae4f-1542-4adb-bcc8-f2c6c3762a2c)
 <br>
 
 ### 메뉴페이지
