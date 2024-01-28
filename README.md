@@ -116,19 +116,19 @@
 <br>
 
 ### 퀴즈
-
+![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/5109b0ca-d386-4652-8968-3896128c0216)
 <br>
 
 ### 랭킹
-
+![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/4f529b24-0f52-4e5e-8646-a14adbccd64b)
 <br>
 
 ### 포인트상점
-
+![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/46e21885-5c41-4c9b-83e3-068c4b714922)
 <br>
 
 ### 출석체크
-
+![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/be0a430f-c4d3-47c3-b06c-a7c6558521b8)
 <br>
 
 
