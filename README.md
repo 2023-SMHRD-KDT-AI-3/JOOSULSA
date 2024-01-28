@@ -111,6 +111,27 @@
 ![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/e5681caa-89b7-452b-8361-855dcf5ef5d8)
 <br>
 
+### 메뉴페이지
+![메뉴](https://github.com/2023-SMHRD-KDT-AI-3/ChickenGGRepo/assets/140151776/282ccf02-0688-4dd0-b7ad-17b3eaa0f9af)
+<br>
+
+### 퀴즈
+
+<br>
+
+### 랭킹
+
+<br>
+
+### 포인트상점
+
+<br>
+
+### 출석체크
+
+<br>
+
+
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
