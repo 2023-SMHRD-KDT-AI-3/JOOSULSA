@@ -99,8 +99,8 @@
 
 <br>
 
-### 로그인/회원가입/마이페이지
-![로그인회원가입마이페이지](https://github.com/2023-SMHRD-KDT-AI-3/ChickenGGRepo/assets/140151776/e3254236-3c62-407e-9001-1d966e6a62c2)
+### 로그인/회원가입
+![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/e7285764-df31-4e4a-88eb-859ed83844f9)
 <br>
 
 ### 브랜드페이지
