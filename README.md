@@ -95,7 +95,7 @@
 
 ## 🖥 화면 구성
 ### 메인화면
-![메인페이지]![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151816/b8fda48f-8318-4495-a02e-3a460e56d0b8)
+![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151816/b8fda48f-8318-4495-a02e-3a460e56d0b8)
 
 <br>
 
@@ -109,10 +109,6 @@
 
 ### 이미지 검색
 ![image](https://github.com/2023-SMHRD-KDT-AI-3/JOOSULSA/assets/140151834/e5681caa-89b7-452b-8361-855dcf5ef5d8)
-<br>
-
-### 메뉴페이지
-![메뉴](https://github.com/2023-SMHRD-KDT-AI-3/ChickenGGRepo/assets/140151776/282ccf02-0688-4dd0-b7ad-17b3eaa0f9af)
 <br>
 
 ### 퀴즈
